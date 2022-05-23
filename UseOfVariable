@@ -1,0 +1,8 @@
+public class hello{
+    public static void main(String[]args){
+        String whatIsMyName = "Elisha";
+        int yearOfBirth = 2001;
+        System.out.println(whatIsMyName);
+        System.out.println(yearOfBirth);
+    }
+}
